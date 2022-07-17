@@ -1,1 +1,1 @@
-# viptela-vmanaga-API
+# viptela-vmanage-API
